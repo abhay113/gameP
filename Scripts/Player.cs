@@ -11,7 +11,6 @@ public class Player : MonoBehaviour
 
     public float speed = 5.0f;
     public int keys = 0;
-
     public GameObject door;
     public GameObject win;
 
